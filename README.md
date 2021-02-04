@@ -1,6 +1,6 @@
 # gomod-main
 
-A extreme simple Golang main program.
+An extreme simple Golang main program.
 
 # Run
 
